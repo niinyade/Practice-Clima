@@ -1,4 +1,4 @@
-# Practice-Clima
+# Practice-Clima-App
 Clima App practice and all layout provided by Angela Yu.
 
 CHALLENGE ACOMPLISHED:
